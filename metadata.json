@@ -1,0 +1,8 @@
+{
+  "name": "K-Studio Pro — Auto Video Subtitle & Multi-Gateway Engine",
+  "description": "Uncensored 18+/21+ end-to-end automated video transcription and Burmese/multi-language subtitle studio with strict model locking (Gemini 4 Argon, 3.8 Flash, 3.1 Pro) and real-time AI Studio auto-rotation, APInex.bond, and BeatAPI.io balance and rate-limit management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

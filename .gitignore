@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.kstudio-config.json
+public/assets/aistudio/
+*.mp4
+*.mov
+*.mkv
+*.webm
+
